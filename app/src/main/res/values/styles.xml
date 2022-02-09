@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle">
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:padding">@dimen/textPadding</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:backgroundTint">#E91E63</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>
